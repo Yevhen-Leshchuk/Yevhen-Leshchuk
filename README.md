@@ -3,8 +3,8 @@
 ### My stats:
 
 <p>
-  <img height="133px" src="https://github-readme-stats.vercel.app/api?username=Yevhen-Leshchuk&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&theme=default" alt="stats" />
-  <img height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yevhen-Leshchuk&layout=compact&hide_title=true&theme=default_repocard" alt="top languages" />
+  <img height="133px" src="https://github-readme-stats.vercel.app/api?username=yevhen-leshchuk&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&theme=default" alt="stats" />
+  <img height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevhen-leshchuk&layout=compact&hide_title=true&theme=default_repocard" alt="top languages" />
 </p>
 
 ### My stack and tools:
